@@ -1,6 +1,4 @@
-For a **README.md**, a shorter and more project-oriented introduction would be better:
 
-## Introduction
 
 This project presents the **design and simulation of a 2-input CMOS NOR gate using Cadence Virtuoso**. The NOR gate is implemented using complementary PMOS and NMOS transistor networks, where the PMOS transistors form the pull-up network and the NMOS transistors form the pull-down network.
 
